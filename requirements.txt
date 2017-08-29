@@ -1,5 +1,11 @@
 dj-database-url==0.4.1
 Django==1.11.4
+<<<<<<< HEAD
 gunicorn==19.7.1
 psycopg2==2.6.2
 whitenoise==3.3.0
+=======
+gunicorn==19.6.0
+psycopg2==2.6.2
+whitenoise==3.2.2
+>>>>>>> 1f22af19f54dd81f72301181eef22efa36008824
