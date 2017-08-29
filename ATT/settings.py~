@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'wkrds5_1!s+n2lt2-&g2!m93vgo5%s
 #DEBUG = True
 DEBUG = bool( os.environ.get('DJANGO_DEBUG', True) )
 
-ALLOWED_HOSTS = ['emma-tutors.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['emma-tutors.herokuapp.com/]
 
 
 # Application definition
